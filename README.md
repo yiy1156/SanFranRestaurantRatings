@@ -39,6 +39,7 @@ No matches found. Try again.
 and allow the user to provide an alternative query.
 Matching reults display: If the query entered by the user matches one or more restaurant, the information about all the matching
 restaurants should be displayed in the following format:
+
 RESTAURANT_NAME
 ------------------------------------
 address : ADDRESS
